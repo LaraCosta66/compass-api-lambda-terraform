@@ -177,3 +177,6 @@ resource "aws_iam_role" "lambda_exec" {
 4. No **console AWS**, verifique se a **Api gateway** foi criada:
 
 ![console](./images/api-awsconsole.png)
+
+5. E por fim use o comando, **terraform destroy**
+---
